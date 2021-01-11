@@ -53,7 +53,7 @@ function Header() {
               href="#"
               className={classes.link}
               component={NavLink}
-              to="/"
+              to="/register"
             >
               Register
             </Link>
