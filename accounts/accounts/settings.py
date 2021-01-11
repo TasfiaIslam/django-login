@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     # apps
     'loginapi',
+    'frontend',
     # third-party
     'rest_framework',
     'corsheaders',
