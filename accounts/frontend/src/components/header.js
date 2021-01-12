@@ -74,7 +74,7 @@ function Header() {
             variant="outlined"
             className={classes.link}
             component={NavLink}
-            to="/"
+            to="/logout"
           >
             Logout
           </Button>
